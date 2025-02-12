@@ -33,9 +33,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aywhoosh/aywhoosh/9a808ad8c3335431c39b4ef203fbf7bdd5294a21/github-snake-dark.svg?token=BCYUCADXGWCJN4MLFWHMJYLHVSAUI" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aywhoosh/aywhoosh/9a808ad8c3335431c39b4ef203fbf7bdd5294a21/github-snake.svg?token=BCYUCACUB77VXSJFJUXJENLHVSAVS" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aywhoosh/aywhoosh/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aywhoosh/aywhoosh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aywhoosh/aywhoosh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aywhoosh/aywhoosh/output/github-snake.svg" />
 </picture>
 
 ###

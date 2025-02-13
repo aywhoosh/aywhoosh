@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IRIS: Ocular Diagnostics<br>👯 I’m looking to collaborate on machine learning opportunities.<br>🤝 I’m looking for help with deep learning models.<br>🌱 I’m currently learning machine learning concepts.<br>💬 Ask me about indie video games.<br>⚡ Fun fact: A tiger's roar is just a lower-pitched version of a normal cat's meow, resonating several octaves deeper due to a larger larynx (^_^)
+🔭 Currently working on IRIS: Ocular Diagnostics<br>👯 I’m looking to collaborate on machine learning opportunities.<br>🤝 I’m looking for help with deep learning models.<br>🌱 I’m currently learning machine learning concepts.<br>💬 Ask me about indie video games.<br>⚡ Fun fact: A tiger's roar is just a lower-pitched version of a normal cat's meow, resonating several octaves deeper due to a larger larynx (^_^)
 
 
 ## 🌐 Socials:

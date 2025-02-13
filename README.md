@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/byayushjain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:by.ayushjain@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/byayushjain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:by.ayushjain@gmail.com) [![Bento](https://img.shields.io/badge/-Bento-768CFF?style=flat&logo=bento&logoColor=white)](https://bento.me/ayushj)
+
 
 # 💻 Tech Stack:
 <div align="left">

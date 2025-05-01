@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 Currently working on IRIS: Ocular Diagnostics<br>👯 I’m looking to collaborate on machine learning opportunities.<br>🌱 Currently trying to learn machine learning concepts, help appreciated!.<br>💬 Ask me about indie video games.<br>⚡ Fun fact: A tiger's roar is just a lower-pitched version of a normal cat's meow, resonating several octaves deeper due to a larger larynx (^_^)
+🔭 Currently working on [IRIS: Ocular Diagnostics](https://github.com/aywhoosh/IRIS)  
+👯 I’m looking to collaborate on machine learning opportunities.  
+🌱 Currently trying to learn machine learning concepts, help appreciated!  
+💬 Ask me about indie video games.  
+⚡ Fun fact: A tiger's roar is just a lower-pitched version of a normal cat's meow, resonating several octaves deeper due to a larger larynx (^_^)
 
 
 ## 🌐 Socials:

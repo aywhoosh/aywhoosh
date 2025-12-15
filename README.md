@@ -55,11 +55,13 @@
   </a>
 </div>
 
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/kritika-rag-ba4306214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/kritika-rag-ba4306214" height="30" width="40" /></a>
-<a href="https://kaggle.com/kritikarag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kritikarag" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kritika_rag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kritika_rag" height="30" width="40" /></a>
-</p>
+<div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aywhoosh&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aywhoosh&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aywhoosh&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aywhoosh&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aywhoosh&theme=github_dark" />
+</div>
 
 
 ###

@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Github, I'm Ayush, a Software Developer</h1>
 <h3 align="center">
-  🐍 <a href="https://youtu.be/onUx22pgiBM?si=2s34LBiqCK6q3UuC&t=327">Video tutorial</a> for the snake
+  🐍 <a href="https://youtu.be/onUx22pgiBM?si=2s34LBiqCK6q3UuC&t=327">Video tutorial</a> for the snake 🐍
 </h3>
 
 

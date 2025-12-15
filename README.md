@@ -8,8 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/byayushjain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:by.ayushjain@gmail.com) [![Bento](https://img.shields.io/badge/-Bento-768CFF?style=flat&logo=bento&logoColor=white)](https://bento.me/ayushj)
 
 
-# 💻 Tech Stack:
-<div align="left">
+<!-- # 💻 Tech Stack:
+  <div align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   </a>
@@ -54,6 +54,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   </a>
 </div>
+-->
 
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aywhoosh&theme=github_dark" />

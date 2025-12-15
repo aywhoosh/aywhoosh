@@ -1,9 +1,6 @@
-# 💫 About Me:
-🔭 Currently working on [IRIS: Ocular Diagnostics](https://github.com/aywhoosh/IRIS)  
-👯 I’m looking to collaborate on machine learning opportunities.  
-🌱 Currently trying to learn machine learning concepts, help appreciated!  
-💬 Ask me about indie video games.  
-⚡ Fun fact: A tiger's roar is just a lower-pitched version of a normal cat's meow, resonating several octaves deeper due to a larger larynx (^_^)
+<h1 align="center">Welcome to my Github, I'm Ayush!</h1>
+<h3 align="center">Software Developer</h3>
+
 🐍 [Video tutorial](https://youtu.be/onUx22pgiBM?si=2s34LBiqCK6q3UuC&t=327) for the snake 
 
 
